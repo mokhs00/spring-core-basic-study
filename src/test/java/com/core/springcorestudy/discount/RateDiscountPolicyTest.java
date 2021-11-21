@@ -1,7 +1,9 @@
 package com.core.springcorestudy.discount;
 
+import com.core.springcorestudy.AppConfig;
 import com.core.springcorestudy.member.Grade;
 import com.core.springcorestudy.member.Member;
+import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
